@@ -1,10 +1,10 @@
-# KeshavSoft Frontend
+# StayAhead Frontend
 
-This repository contains the frontend source code for KeshavSoft, a modern and responsive website for a student technology training platform. It is designed to offer B.Tech students hands-on internship programs in frontend web development, focusing on practical skills and real-world projects. The entire UI is built using HTML, vanilla JavaScript, and Bootstrap 5.
+This repository contains the frontend source code for StayAhead, a modern and responsive website for a student technology training platform. It is designed to offer B.Tech students hands-on internship programs in frontend web development, focusing on practical skills and real-world projects. The entire UI is built using HTML, vanilla JavaScript, and Bootstrap 5.
 
 ### Live Demo
 
-You can view a live deployment of the project [here](https://amrit3533.github.io/task1_new_keshavsoft/).
+You can view a live deployment of the project [here](https://amrit3533.github.io/task1_new_StayAhead/).
 
 ## Key Features
 
@@ -17,7 +17,7 @@ You can view a live deployment of the project [here](https://amrit3533.github.io
 ## Pages Overview
 
 -   `index.html`: The main landing page featuring a hero carousel, program highlights, and student testimonials.
--   `about.html`: Provides details about KeshavSoft's mission, team, and the technologies taught.
+-   `about.html`: Provides details about StayAhead's mission, team, and the technologies taught.
 -   `contact.html`: A comprehensive contact page with a contact form, direct contact methods (Email, WhatsApp), FAQs, and location information.
 
 ## Technologies Used
@@ -34,12 +34,12 @@ This is a static website. To run it locally, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/amrit3533/keshavsoft_frontend.git](https://github.com/amrit3533/keshavsoft_frontend.git)
+    git clone [https://github.com/amrit3533/StayAhead_frontend.git](https://github.com/amrit3533/StayAhead_frontend.git)
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd keshavsoft_frontend
+    cd StayAhead_frontend
     ```
 
 3.  **Open in browser:**
