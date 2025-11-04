@@ -4,7 +4,7 @@ This repository contains the frontend source code for StayAhead, a modern and re
 
 ### Live Demo
 
-You can view a live deployment of the project [here](https://amrit3533.github.io/task1_new_StayAhead/).
+You can view a live deployment of the project [here](https://amrit3533.github.io/StayAhead/).
 
 ## Key Features
 
